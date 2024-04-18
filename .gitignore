@@ -2,7 +2,6 @@ null
 # OSX
 #
 .DS_Store
-package-lock.json
 
 # Xcode
 #
